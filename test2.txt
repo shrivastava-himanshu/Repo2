@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 2412-CCB2
+
+ Directory of C:\Users\shrivh1\GIT Local
+
+02/09/2019  10:46 AM    <DIR>          .
+02/09/2019  10:46 AM    <DIR>          ..
+02/09/2019  10:37 AM               347 test1.txt
+02/09/2019  10:46 AM                 0 test2.txt
+               2 File(s)            347 bytes
+               2 Dir(s)  27,028,946,944 bytes free
